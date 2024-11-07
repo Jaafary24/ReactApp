@@ -1,0 +1,7 @@
+body {
+  margin: 0 auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* background-color: rgb(169, 89, 177); */
+  background: linear-gradient(45deg, #a530bd, #bd3087, #c0452f, #b10b87);
+  background-attachment: fixed;
+}
